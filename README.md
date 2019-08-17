@@ -1,6 +1,6 @@
 # OECD_OUTCOMES_Mortality
 
-[![](https://img.shields.io/badge/extent-missouri-red.svg)](https://github.com/slu-soc1120/OECD_OUTCOMES_Mortality/)
+[![](https://img.shields.io/badge/extent-oecd-red.svg)](https://github.com/slu-soc1120/OECD_OUTCOMES_Mortality/)
 [![](https://img.shields.io/badge/category-health-orange.svg)](https://github.com/slu-soc1120/OECD_OUTCOMES_Mortality/)
 [![](https://img.shields.io/github/release/slu-soc1120/OECD_OUTCOMES_Mortality.svg?label=version)](https://github.com/slu-soc1120/OECD_OUTCOMES_Mortality/releases)
 [![](https://img.shields.io/github/last-commit/slu-soc1120/OECD_OUTCOMES_Mortality.svg)](https://github.com/slu-soc1120/OECD_OUTCOMES_Mortality/commits/master)
